@@ -1,0 +1,30 @@
+.LandingPage{
+    position: absolute;
+    background-image: url('https://images7.alphacoders.com/592/592678.jpg');
+    background-size: cover;
+    background-position: center;
+    min-width: 100vw;
+    min-height: 100vh;
+}
+.divWelcome{
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    width: auto;
+    margin: 40vh auto;
+    position: relative;
+    background-color: rgba(210, 135, 135, 0.778);
+    border-radius: 30px;
+    background-size:400px;
+}
+.bienvenido{
+
+    font-family: 'FjallaOne', sans-serif;
+    font-size: 4rem;
+    font-weight: 900;
+    color: rgb(255, 255, 255);
+    text-shadow: rgba(255, 41, 8, 0.587) 6px 6px 6px;
+    text-align: center;
+    background-size:200px 30px; 
+
+}
